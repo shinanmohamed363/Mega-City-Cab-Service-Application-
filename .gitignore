@@ -36,3 +36,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+MONGODB_CONNECTION_URL=mongodb+srv://shinanmohamed363:9oZ7c1ZJMMnavNhZ@cluster0.bpqdy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGODB_DATABASE_NAME=MegaCityCabDB
